@@ -1,0 +1,223 @@
+[
+    {
+        "movie_type": "3D",
+        "language": "English",
+        "cinemas": [
+            {
+                "name": "Cinepolis: Inorbit Vadodara Mall",
+                "showtimes": [
+                    {
+                        "time": "05:30 PM",
+                        "available_seats": 132,
+                        "blocked_seats": 14,
+                        "total_seats": 146
+                    }
+                ]
+            },
+            {
+                "name": "PVR: EVA Mall, Vadodara",
+                "showtimes": [
+                    {
+                        "time": "08:00 PM",
+                        "available_seats": 205,
+                        "blocked_seats": 24,
+                        "total_seats": 229
+                    }
+                ]
+            },
+            {
+                "name": "Connplex Cinemas (Luxuriance): Vadodara",
+                "showtimes": [
+                    {
+                        "time": "10:55 PM",
+                        "available_seats": 101,
+                        "blocked_seats": 6,
+                        "total_seats": 107
+                    }
+                ]
+            },
+            {
+                "name": "INOX Taksh Galaxy Mall: Waghodia",
+                "showtimes": [
+                    {
+                        "time": "05:45 PM",
+                        "available_seats": 250,
+                        "blocked_seats": 10,
+                        "total_seats": 260
+                    },
+                    {
+                        "time": "11:15 PM",
+                        "available_seats": 250,
+                        "blocked_seats": 10,
+                        "total_seats": 260
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "movie_type": "2D",
+        "language": "Hindi",
+        "cinemas": [
+            {
+                "name": "Bansal Movieplex: Tarsali, Vadodara",
+                "showtimes": [
+                    {
+                        "time": "04:30 PM",
+                        "available_seats": 155,
+                        "blocked_seats": 0,
+                        "total_seats": 155
+                    },
+                    {
+                        "time": "07:00 PM",
+                        "available_seats": 151,
+                        "blocked_seats": 4,
+                        "total_seats": 155
+                    }
+                ]
+            },
+            {
+                "name": "Infinity 7 Seas Cinema: Fatehganj",
+                "showtimes": [
+                    {
+                        "time": "03:15 PM",
+                        "available_seats": 262,
+                        "blocked_seats": 63,
+                        "total_seats": 325
+                    },
+                    {
+                        "time": "08:05 PM",
+                        "available_seats": 264,
+                        "blocked_seats": 61,
+                        "total_seats": 325
+                    }
+                ]
+            },
+            {
+                "name": "Bansal Movieplex Gotri-Vasna Road: Vadodara",
+                "showtimes": [
+                    {
+                        "time": "07:00 PM",
+                        "available_seats": 189,
+                        "blocked_seats": 0,
+                        "total_seats": 189
+                    }
+                ]
+            },
+            {
+                "name": "Cinemera Multiplex: Vadodara",
+                "showtimes": [
+                    {
+                        "time": "02:45 PM",
+                        "available_seats": 192,
+                        "blocked_seats": 0,
+                        "total_seats": 192
+                    },
+                    {
+                        "time": "08:15 PM",
+                        "available_seats": 192,
+                        "blocked_seats": 0,
+                        "total_seats": 192
+                    },
+                    {
+                        "time": "10:30 PM",
+                        "available_seats": 192,
+                        "blocked_seats": 0,
+                        "total_seats": 192
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "movie_type": "3D",
+        "language": "Hindi",
+        "cinemas": [
+            {
+                "name": "Cinepolis: Inorbit Vadodara Mall",
+                "showtimes": [
+                    {
+                        "time": "02:50 PM",
+                        "available_seats": 124,
+                        "blocked_seats": 22,
+                        "total_seats": 146
+                    },
+                    {
+                        "time": "08:10 PM",
+                        "available_seats": 129,
+                        "blocked_seats": 17,
+                        "total_seats": 146
+                    }
+                ]
+            },
+            {
+                "name": "PVR: EVA Mall, Vadodara",
+                "showtimes": [
+                    {
+                        "time": "02:30 PM",
+                        "available_seats": 228,
+                        "blocked_seats": 1,
+                        "total_seats": 229
+                    },
+                    {
+                        "time": "10:20 PM",
+                        "available_seats": 177,
+                        "blocked_seats": 16,
+                        "total_seats": 193
+                    }
+                ]
+            },
+            {
+                "name": "Movietime: S-Square Mall, Subhanpura, Vadodara",
+                "showtimes": [
+                    {
+                        "time": "07:30 PM",
+                        "available_seats": 161,
+                        "blocked_seats": 0,
+                        "total_seats": 161
+                    },
+                    {
+                        "time": "08:00 PM",
+                        "available_seats": 176,
+                        "blocked_seats": 0,
+                        "total_seats": 176
+                    }
+                ]
+            },
+            {
+                "name": "INOX Taksh Galaxy Mall: Waghodia",
+                "showtimes": [
+                    {
+                        "time": "03:00 PM",
+                        "available_seats": 250,
+                        "blocked_seats": 10,
+                        "total_seats": 260
+                    },
+                    {
+                        "time": "08:30 PM",
+                        "available_seats": 250,
+                        "blocked_seats": 10,
+                        "total_seats": 260
+                    }
+                ]
+            },
+            {
+                "name": "Miraj Cinemas: SWC Mall",
+                "showtimes": [
+                    {
+                        "time": "05:00 PM",
+                        "available_seats": 177,
+                        "blocked_seats": 13,
+                        "total_seats": 190
+                    },
+                    {
+                        "time": "10:00 PM",
+                        "available_seats": 169,
+                        "blocked_seats": 21,
+                        "total_seats": 190
+                    }
+                ]
+            }
+        ]
+    }
+]
