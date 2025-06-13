@@ -19,7 +19,7 @@ A Python scraper for extracting movie showtime data, seat availability, and cine
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/sardanioss/bookmyshow_scraper.git
    cd bookmyshow_scraper
    ```
 
